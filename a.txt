@@ -1,3 +1,1 @@
-Merge Conflict  
-added a new line to the text file
-Hello naveen
+Hi this is noy yuva
